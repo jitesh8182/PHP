@@ -1,0 +1,144 @@
+ERROR - 2021-12-27 22:42:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 22:42:44 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:25 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:30 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:30 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:33 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:33 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:25:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:25:37 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-27 23:25:39 --> array_values() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_values() ...', 'C:\\wamp64\\www\\C...', 40, Array)
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(40): array_values(NULL)
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-27 23:25:44 --> array_values() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_values() ...', 'C:\\wamp64\\www\\C...', 40, Array)
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(40): array_values(NULL)
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-27 23:25:46 --> array_values() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_values() ...', 'C:\\wamp64\\www\\C...', 40, Array)
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(40): array_values(NULL)
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-27 23:26:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:26:01 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:26:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:26:02 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:33:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:33:48 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:34:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:34:15 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:34:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:34:18 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:34:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:34:20 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:35:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:35:18 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-27 23:35:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2021-12-27 23:35:26 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(29): App\Models\PracticeModel->getdataby_id('item_table', NULL)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

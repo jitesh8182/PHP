@@ -1,0 +1,224 @@
+CRITICAL - 2021-12-16 10:48:33 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:39 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:40 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:41 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:43 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:44 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:45 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:46 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:47 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:47 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:48 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:49 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:50 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:50 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:51 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:52 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:53 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:54 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:55 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:55 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:56 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:57 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:48:57 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:17 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:25 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:26 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:27 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:28 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:29 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:29 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:30 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 10:49:30 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('homecontroller')
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('homecontroller')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

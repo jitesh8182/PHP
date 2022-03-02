@@ -1,0 +1,45 @@
+CRITICAL - 2022-01-02 12:21:38 --> Illegal string offset 'category'
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\C...', 140, Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 12:23:56 --> The original file is not a valid file.
+#0 C:\wamp64\www\CI\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(125): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\wamp64\\www\\C...', '1641147836_9e00...')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-02 12:23:56 --> unlink(C:/wamp64/www/CI/public/upload/1640076483_7c8877ba71f13d79db43.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:/wamp6...', 'C:\\wamp64\\www\\C...', 123, Array)
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(123): unlink('C:/wamp64/www/C...')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-02 22:44:26 --> Illegal string offset 'category'
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\C...', 140, Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-02 22:44:26 --> unlink(C:/wamp64/www/CI/public/upload/1641185001_f9a84f5bd9250fc1ebdf.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:/wamp6...', 'C:\\wamp64\\www\\C...', 121, Array)
+#1 C:\wamp64\www\CI\app\Controllers\PracticeController.php(121): unlink('C:/wamp64/www/C...')
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-02 22:45:48 --> Illegal string offset 'category'
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(140): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\C...', 140, Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

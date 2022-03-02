@@ -1,0 +1,104 @@
+ERROR - 2021-12-21 00:09:53 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:09:53 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:10:00 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:10:00 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:10:05 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:10:05 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:11:50 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:11:50 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:19:51 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:19:51 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:19:57 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:19:57 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:20:26 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:20:26 --> Call to a member function getRow() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:20:30 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:20:30 --> Call to a member function getRows() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:20:37 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:20:37 --> Call to a member function getNumRows() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:20:45 --> Table 'mca5.item_tableas' doesn't exist
+CRITICAL - 2021-12-21 00:20:45 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:22:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+CRITICAL - 2021-12-21 00:22:37 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\CI\app\Controllers\PracticeController.php(52): App\Models\PracticeModel->getCategoryWhere(Array)
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictAdmin()
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 00:23:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+ERROR - 2021-12-21 00:23:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+ERROR - 2021-12-21 00:23:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+ERROR - 2021-12-21 00:23:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+ERROR - 2021-12-21 00:24:04 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+ERROR - 2021-12-21 00:24:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''item_table'as i,'cate_table' as c where c.cat_id=i.cat_id' at line 1
+CRITICAL - 2021-12-21 00:25:00 --> syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp64\www\CI\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\C...')
+#1 C:\wamp64\www\CI\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Prac...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Prac...')
+#3 C:\wamp64\www\CI\app\Controllers\PracticeController.php(11): spl_autoload_call('App\\Models\\Prac...')
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(801): App\Controllers\PracticeController->__construct()
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,88 @@
+html,body{
+    margin: 0 ;
+    padding: 0;
+    overflow:hidden; 
+}
+.cart a{
+    margin-left: 1300px;
+    color: #f1f1f1;
+    font-size: 27px;
+}
+.dishes-block{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 80px 0px 80px;
+    width: 100%;
+    background-color: #4D332E;
+    padding: 120px 120px;
+}
+.tab{
+    overflow: hidden;
+    margin-left: -35px;
+}
+.line{
+    border:1px solid #84817E;
+    margin-top: -17px;
+}
+.tab button{
+    cursor: pointer;
+    outline: none;
+    background-color: inherit;
+    float: left;
+    color: #f1f1f1;
+    font-weight: bold;
+    border: none;
+    margin: 0px 35px 17px;
+    padding:0px 0px 17px 0px;
+    transition: 0.3s;
+    font-size: 20px;
+}
+/* Change background color of buttons on hover */
+.tab button:hover {
+    border-bottom: 5px solid #FE5F41;
+    padding-left:0px;
+    padding-right:0px;
+}
+/* Create an active/current tablink class */
+.tab button.active {
+    border-bottom: 5px solid #FE5F41;
+    color: #FE5F41;
+}
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    animation: fadeEffect 1s;
+    margin-top: 50px;
+}
+@keyframes fadeEffect {
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
+.dishes-boxes{
+    text-align: center;
+    width: 408px;
+    height: 448px;
+    background: #ffffff;
+    margin: 0px 12px;
+    padding: 35px 60px 40px;
+    border-radius: 10px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+
+div.item {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+}
+.caption {
+    font-size: 18px;
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+}

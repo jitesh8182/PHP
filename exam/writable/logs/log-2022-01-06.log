@@ -1,0 +1,22 @@
+CRITICAL - 2022-01-06 00:14:00 --> Call to a member function has() on null
+#0 C:\wamp64\www\exam\system\View\View.php(214): include()
+#1 C:\wamp64\www\exam\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\exam\system\Common.php(1097): CodeIgniter\View\View->render('usr', Array, true)
+#3 C:\wamp64\www\exam\app\Controllers\Examcontroller.php(17): view('usr')
+#4 C:\wamp64\www\exam\system\CodeIgniter.php(824): App\Controllers\ExamController->redictUsr()
+#5 C:\wamp64\www\exam\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExamController))
+#6 C:\wamp64\www\exam\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\exam\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-06 01:05:53 --> Call to undefined function PHPSTORM_META\type()
+#0 C:\wamp64\www\exam\system\CodeIgniter.php(824): App\Controllers\ExamController->redictUsr()
+#1 C:\wamp64\www\exam\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExamController))
+#2 C:\wamp64\www\exam\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\exam\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-06 01:06:17 --> Call to undefined function PHPSTORM_META\type()
+#0 C:\wamp64\www\exam\system\CodeIgniter.php(824): App\Controllers\ExamController->redictUsr()
+#1 C:\wamp64\www\exam\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExamController))
+#2 C:\wamp64\www\exam\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\exam\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

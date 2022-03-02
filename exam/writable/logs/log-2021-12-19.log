@@ -1,0 +1,672 @@
+CRITICAL - 2021-12-19 07:09:57 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:14:39 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:14:59 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->aa()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:16:07 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:17:52 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:20:12 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:21:36 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:37 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:39 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:40 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:42 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:43 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:22:43 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:26:36 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:26:38 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:26:38 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:26:39 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:26:40 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:27:45 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:27:48 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:27:49 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:27:50 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:27:51 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:28:22 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:28:24 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:28:25 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:28:27 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 07:28:27 --> Class 'App\Models\PracticleModel' not found
+#0 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\HomeController->index()
+#1 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-19 12:07:13 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:07:46 --> Invalid file: login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_page.php')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('login_page', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('login_page')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:08:01 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:13 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:14 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:15 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:16 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:20 --> Invalid file: /items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/items_cart/log...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('/items_cart/log...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('/items_cart/log...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:27 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:28 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:29 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:30 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:31 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:32 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:33 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:34 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:35 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:36 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:36 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:39 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:40 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:40 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:41 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:42 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:43 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:44 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:45 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:46 --> Invalid file: ../items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../items_cart/l...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('../items_cart/l...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('../items_cart/l...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:53 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:54 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:55 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:56 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:58 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:09:59 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:00 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:01 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:02 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:04 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:05 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:05 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:06 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:07 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:08 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:09 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:10 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:11 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:11 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:12 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:13 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:14 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:15 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:17 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:17 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:18 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:10:19 --> Invalid file: items_cart/login_page.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('items_cart/logi...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('items_cart/logi...', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(32): view('items_cart/logi...')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->index()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-19 12:28:53 --> Invalid file: view/usrpage.php
+#0 C:\wamp64\www\CI\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view/usrpage.ph...')
+#1 C:\wamp64\www\CI\system\Common.php(1097): CodeIgniter\View\View->render('view/usrpage', Array, true)
+#2 C:\wamp64\www\CI\app\Controllers\PracticeController.php(15): view('view/usrpage')
+#3 C:\wamp64\www\CI\system\CodeIgniter.php(824): App\Controllers\PracticeController->redictUsr()
+#4 C:\wamp64\www\CI\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PracticeController))
+#5 C:\wamp64\www\CI\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

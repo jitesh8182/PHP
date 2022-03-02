@@ -1,0 +1,105 @@
+body
+{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main
+{
+    margin: auto;width: 30%;
+    border:2px solid gray;
+    border-radius: 20px;
+}
+.sub
+{
+    border: none;
+    transition: all 1s ease-in-ou}
+.sub:focus-within .sub-title
+{ 
+    color: black;
+}
+input[type="email"]:focus-within
+{
+    box-shadow: 0px 0px 5px green ;
+}
+textarea:focus-within
+    {
+        box-shadow: 0px 0px 5px green ;
+    }
+    input[type="text"]:focus-within 
+    {
+        box-shadow: 0px 0px 5px green ;}
+    select:focus-within 
+    {
+        box-shadow: 0px 0px 5px green ;
+     }
+    input[type="text"],input[type="email"],textarea
+    {
+        outline: none;
+        border: 1px solid gray;
+        border-radius: 5px;
+        width: 95%;
+        padding: 8px;
+        font-size: medium;
+    }
+    .title
+    {
+        font-size: larger;
+        color: blue;
+    }
+    .sub-title{
+        font-size: medium;
+        color: green;
+        transition: all 0.3s ease-in-out;
+    }
+    .btn:hover{
+        color:white;
+        background-color: green;
+        border-radius: 25px;
+    }
+    .btn
+    {
+        width: 100%;
+        padding: 8px;   
+        cursor: pointer;
+        font-size: large;
+        color:green;
+        outline:none;border: 2px solid green;
+        border-radius: 5px;
+        background-color: white;
+        transition: all 0.5s ease;
+    }
+    .btn:disabled
+    {
+        color:white;
+        background-color:blue;
+        border: 2px solid blue;
+        border-radius: 25px;
+    }
+    /*navigation*/
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 15%;
+        background-color: #f1f1f1;
+        position: fixed;
+        height: 100%;
+        overflow: auto;
+    }
+
+    li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    }
+
+    li a.active {
+    background-color: #04AA6D;
+    color: white;
+    }
+
+    li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+    }
