@@ -5,7 +5,7 @@
 
 $server_dir = "../";
 session_start();
-
+//ok
 require $server_dir.'scripts/config.inc.php';
 require $server_dir.'scripts/wampserver.lib.php';
 
